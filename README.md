@@ -1,3 +1,6 @@
 # -
 백준 부활 기원
-<img width="1026" height="952" alt="image" src="https://github.com/user-attachments/assets/3dd2d2ce-40ec-4703-9751-cb6c365d380b" />
+
+
+<img width="1082" height="968" alt="image" src="https://github.com/user-attachments/assets/9c21a47e-1023-4582-85ca-72e5a51f4161" />
+
